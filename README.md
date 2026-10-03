@@ -2,13 +2,16 @@
 
 > **Read-only archive of released versions of ramon/auth-modals.** Not for installation: use [Packagist](https://packagist.org/packages/ramon/auth-modals) or the [upstream repository](https://github.com/ram0ng1/auth-modals).
 
-**0** versions archived · Latest: [`2.0.2`](https://github.com/flarchive/ramon-auth-modals/tree/archive/v2.0.2) · License: `MIT` · Flarum: `^2.0.0`
+**4** versions archived · Latest: [`2.0.2`](https://github.com/flarchive/ramon-auth-modals/tree/archive/v2.0.2) · License: `MIT` · Flarum: `^2.0.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2026-05-12 | `^2.0.0` | [Browse](https://github.com/flarchive/ramon-auth-modals/tree/archive/v0.1.0) |
+| `2.0.0` | 2026-05-12 | `^2.0.0` | [Browse](https://github.com/flarchive/ramon-auth-modals/tree/archive/v2.0.0) |
+| `2.0.1` | 2026-05-23 | `^2.0.0` | [Browse](https://github.com/flarchive/ramon-auth-modals/tree/archive/v2.0.1) |
+| `2.0.2` | 2026-05-23 | `^2.0.0` | [Browse](https://github.com/flarchive/ramon-auth-modals/tree/archive/v2.0.2) |
 
 Catalog entry: [packages/ramon-auth-modals.json](https://github.com/flarchive/archive-index/blob/main/packages/ramon-auth-modals.json)
 
